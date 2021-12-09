@@ -31,6 +31,6 @@ This is a portfolio of some of the assignments I completed in Marketing 3509. I'
 9. **Module 9: Clustering and Segmentation**
 [A9 Segmentation (retail transactions and behavioral segmentation)]
 
-10.**Module 10: Text Analysis**
+10. **Module 10: Text Analysis**
 [A10 Vegas Resorts Text Mining]
 
